@@ -1,0 +1,45 @@
+body{
+    background: #ABDFCC;
+    background-image: url('../images/asdasd.jpg');
+    background-size: 100%;
+}
+a {
+    text-decoration: none;
+}
+
+#style_div {
+    width: 500px;
+    height: 450px;
+    /* text-align: center; */
+    padding-top: 30px;
+    border-radius: 20px;
+    padding-left: 30px;
+    margin: 0 auto;
+}
+
+#reg_form>p {
+    font-size: 20px;
+    color: gray;
+    font-weight: 700;
+}
+#reg_form>p>span{
+    font-size: 10px;
+}
+
+#reg_form>p>input {
+    width: 200px;
+    height: 40px;
+    border: 1px solid navy;
+}
+
+#reg_Bth {
+    width: 100px;
+    height: 30px;
+    margin-right: 50px;
+    margin-left: 70px;
+}
+
+#reg_form>a{
+    font-size: 16px;
+    color: brown;
+}
